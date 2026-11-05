@@ -1,1 +1,5 @@
-<resources><string name="app_name">Bỏ thuốc trong thầm lặng</string></resources>
+<resources><string name="app_name">Bỏ thuốc trong thầm lặng</string>    <string name="support_message">Nếu bạn cảm thấy ứng dụng hay, xin hãy ủng hộ cho tôi.</string>
+    <string name="support_qr_description">Chạm để phóng to mã QR ủng hộ tác giả</string>
+    <string name="support_title">Ủng hộ tác giả</string>
+    <string name="support_close">Đóng</string>
+</resources>
