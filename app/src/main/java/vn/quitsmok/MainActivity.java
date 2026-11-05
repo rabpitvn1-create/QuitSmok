@@ -94,6 +94,7 @@ public final class MainActivity extends Activity {
         button("Tôi vừa hút lại",false,this::recovery);
         button("Dữ liệu và riêng tư",false,this::settings);
         button("Thông tin an toàn",false,this::safety);
+        SupportFooter.addTo(this, body, muted);
     }
     private String stateLabel(DataState state){switch(state){case CONFIRMED:return "Đã xác nhận";case RECALLED:return "Nhớ lại";case UNKNOWN:return "Chưa rõ tổng ngày";default:return "Đã ghi tại thời điểm phát sinh";}}
     private void log(){long now=android.os.SystemClock.elapsedRealtime();if(now-lastTap<1000)return;lastTap=now;

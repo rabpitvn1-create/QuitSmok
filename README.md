@@ -9,6 +9,7 @@
 * Đối chiếu tổng theo ngày hoặc nhập tổng nhớ lại; giữ trạng thái chưa rõ.
 * Hỗ trợ cơn thèm theo yêu cầu, Recovery nhẹ nhàng sau hút lại.
 * Xuất JSON qua trình chọn file của Android, xóa dữ liệu cục bộ.
+* Lời nhắn ủng hộ tự nguyện ở cuối màn hình chính, QR nhỏ; chạm để mở ảnh gốc.
 * Không tài khoản, không Internet permission, không push, countdown, streak, quảng cáo hay subscription.
 
 **Đây chưa phải toàn bộ MVP 8 tuần.** Máy lịch giảm chưa được kích hoạt. Sau 7 ngày, bản này tiếp tục quan sát; không tự đặt D, không tự giảm ngân sách. Công thức Java thuần và Safety Gate chỉ được kiểm thử như nền tảng cho giai đoạn tiếp theo. Không tuyên bố hiệu quả điều trị.
